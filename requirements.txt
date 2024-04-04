@@ -1,0 +1,12 @@
+fastapi
+uvicorn 
+pydantic==2.6.3
+pydantic-extra-types==2.1.0
+pydantic-settings==2.2.1
+pydantic_core==2.16.3
+SQLAlchemy==2.0.25
+sqlmodel==0.0.16
+sqlparse==0.4.4
+google-generativeai
+psycopg2-binary
+passlib
